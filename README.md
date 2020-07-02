@@ -13,4 +13,13 @@ Se ha creado este repo acerca del curso Data Science con ejemplos reales en pyth
 ### 3.Machine Learning Que es:
 [Que es ML](https://github.com/MQH15/python-for-data-science-real-exercises/tree/master/fotos_ML)
 
+### 4.Regression, Clasification:
+[Regresion Lineal](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C2_1_Regresion_lineal%20-%20Prediccion%20del%20coste%20de%20un%20incidente%20de%20seguridad.ipynb)\
+[Regresion Logística](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C2_2_Regresion_Logistica%20-%20Deteccion%20de%20SPAM.ipynb)
 
+### 5.Creación de un proyecto de ML:
+[Visualización del conjunto de datos](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C3_1_ML%20-%20Visualizacion%20del%20conjunto%20de%20datos.ipynb)\
+[Division del conjunto de datos](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C3_2_ML%20-%20Division%20del%20conjunto%20de%20datos.ipynb)\
+[Preparación del conjunto de datos](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C3_3_ML%20-%20Preparacion%20del%20conjunto%20de%20datos.ipynb)\
+[Creación de Transformadores y Pipelines](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C3_4_ML%20-%20Creacion%20de%20Transformadores%20y%20Pipelines%20personalizados.ipynb)\
+[Evaluación de resultados](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C3_5_ML%20-%20Evaluacion%20de%20resultados.ipynb)
