@@ -23,3 +23,8 @@ Se ha creado este repo acerca del curso Data Science con ejemplos reales en pyth
 [Preparación del conjunto de datos](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C3_3_ML%20-%20Preparacion%20del%20conjunto%20de%20datos.ipynb)\
 [Creación de Transformadores y Pipelines](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C3_4_ML%20-%20Creacion%20de%20Transformadores%20y%20Pipelines%20personalizados.ipynb)\
 [Evaluación de resultados](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C3_5_ML%20-%20Evaluacion%20de%20resultados.ipynb)
+
+### 6.Selección y Extraccion de Caracteristicas:
+[Selección de Caracteristicas](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C6_1_Seleccion_Caracteristicas.ipynb)/
+[PCA - Extracción de Caracteristicas](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C6_2_Extraccion_Caracteristicas.ipynb)/
+[Técnicas de Selección de Modelos](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C6_3_Tecnicas_Seleccion_Modelo.ipynb)
