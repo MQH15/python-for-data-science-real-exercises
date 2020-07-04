@@ -28,3 +28,8 @@ Se ha creado este repo acerca del curso Data Science con ejemplos reales en pyth
 [Selección de Caracteristicas](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C6_1_Seleccion_Caracteristicas.ipynb)\
 [PCA - Extracción de Caracteristicas](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C6_2_Extraccion_Caracteristicas.ipynb)\
 [Técnicas de Selección de Modelos](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C6_3_Tecnicas_Seleccion_Modelo.ipynb)
+
+### 7.Algoritmos de CLustering:
+[Kmeans](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C7_1_Kmeans%20-%20Deteccion%20de%20transacciones%20bancarias%20fraudulentas.ipynb)\
+[DBSCAN](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C7_2_Dbscan%20-%20Deteccion%20de%20transacciones%20bancarias%20fraudulentas.ipynb)
+
