@@ -33,3 +33,6 @@ Se ha creado este repo acerca del curso Data Science con ejemplos reales en pyth
 [Kmeans](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C7_1_Kmeans%20-%20Deteccion%20de%20transacciones%20bancarias%20fraudulentas.ipynb)\
 [DBSCAN](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C7_2_Dbscan%20-%20Deteccion%20de%20transacciones%20bancarias%20fraudulentas.ipynb)
 
+### 8.Naive Bayes:
+[Naive Bayes](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C8_1_Naive_Bayes%20-%20Deteccion%20de%20SPAM.ipynb)
+
