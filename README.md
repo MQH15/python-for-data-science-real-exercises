@@ -36,3 +36,8 @@ Se ha creado este repo acerca del curso Data Science con ejemplos reales en pyth
 ### 8.Naive Bayes:
 [Naive Bayes](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C8_1_Naive_Bayes%20-%20Deteccion%20de%20SPAM.ipynb)
 
+### 9.Detección de Anomalias:
+[Distribución Gaussiana](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C9_1_Distribucion_Gaussiana%20-%20Deteccion%20de%20transacciones%20bancarias%20fraudulentas.ipynb)\
+[Isolation Forest](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C9_2_Isolation_Forest%20-%20Deteccion%20de%20transacciones%20bancarias%20fraudulentas.ipynb)
+
+
