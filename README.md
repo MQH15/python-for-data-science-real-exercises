@@ -47,4 +47,6 @@ Se ha creado este repo acerca del curso Data Science con ejemplos reales en pyth
 [Distribución Gaussiana](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C9_1_Distribucion_Gaussiana%20-%20Deteccion%20de%20transacciones%20bancarias%20fraudulentas.ipynb)\
 [Isolation Forest](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C9_2_Isolation_Forest%20-%20Deteccion%20de%20transacciones%20bancarias%20fraudulentas.ipynb)
 
+### 12. Redes Neuronales:
+[RNA - Perceptron y Perceptron Multicapa](https://github.com/MQH15/python-for-data-science-real-exercises/blob/master/C10_1_RNA%20-%20Deteccion%20de%20transacciones%20bancarias%20fraudulentas.ipynb)
 
